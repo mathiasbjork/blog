@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+My name is Mathias. A dad, a PM and an engineer.
+
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 
