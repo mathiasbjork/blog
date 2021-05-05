@@ -1,1 +1,1 @@
-Sitemap: https://mathiasbjork.github.io/blog/sitemap.xml
+Sitemap: https://www.mathiasbjork.se/sitemap.xml
